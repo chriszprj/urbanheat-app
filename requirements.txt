@@ -1,0 +1,11 @@
+streamlit>=1.40
+streamlit-folium>=0.24
+folium>=0.17
+requests>=2.32
+shapely>=2.0
+pyproj>=3.7
+numpy>=2.0
+matplotlib>=3.9
+rasterio>=1.4
+pystac-client>=0.8
+planetary-computer>=1.0
