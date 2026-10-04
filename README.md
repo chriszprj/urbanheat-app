@@ -9,3 +9,5 @@ Features of the application:
 6. Compares the city's median land surface temperature with a 10-km surrounding land ring.
 7. Renders a red-hot / blue-cool temperature layer over the map.
 8. Reports several measurements, including median city temperature, median ring temperature, city-minus-ring temperature difference, and the share of city pixels above the ring median.
+
+Technologies: Python, Streamlit, Landsat Collection 2, Microsoft Planetary Computer, STAC, and Data Analysis & Visualization Libraries
